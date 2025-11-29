@@ -1,1 +1,2 @@
-cat > .git_filters/clean-nbs
+#!/bin/sh
+jq 'del(.metadata.celltoolbar, .cells[].metadata)' || cat
