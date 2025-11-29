@@ -1,0 +1,397 @@
+season,club,foreigners,squad_total_val,player_mean_value
+04/05,Bayern Munich,28.1,€175.30m,€6.04m
+04/05,SV Werder Bremen,25.6,€98.48m,€3.40m
+04/05,Bayer 04 Leverkusen,25.3,€86.93m,€2.72m
+04/05,FC Schalke 04,26.1,€86.33m,€2.62m
+04/05,VfB Stuttgart,26.0,€79.50m,€2.56m
+04/05,Borussia Dortmund,25.0,€78.33m,€2.18m
+04/05,Hertha BSC,26.7,€71.78m,€2.39m
+04/05,Hamburger SV,25.4,€65.60m,€2.12m
+04/05,VfL Wolfsburg,27.8,€59.30m,€2.12m
+04/05,Borussia Mönchengladbach,27.7,€50.93m,€1.38m
+04/05,Hannover 96,26.6,€42.98m,€1.23m
+04/05,1.FC Nuremberg,26.2,€34.90m,€1.20m
+04/05,1.FC Kaiserslautern,27.1,€33.75m,€1.05m
+04/05,VfL Bochum,26.8,€31.40m,€952k
+04/05,FC Hansa Rostock,28.0,€25.90m,€925k
+04/05,Arminia Bielefeld,26.5,€24.65m,€704k
+04/05,SC Freiburg,26.3,€22.43m,€701k
+04/05,1.FSV Mainz 05,28.1,€16.73m,€523k
+25/26,Bayern Munich,26.7,€951.65m,€38.07m
+25/26,Borussia Dortmund,26.1,€500.50m,€17.88m
+25/26,Bayer 04 Leverkusen,26.0,€426.75m,€16.41m
+25/26,Eintracht Frankfurt,25.7,€383.90m,€13.71m
+25/26,RB Leipzig,24.7,€366.25m,€12.63m
+25/26,VfB Stuttgart,24.6,€339.43m,€10.61m
+25/26,VfL Wolfsburg,25.8,€251.90m,€8.69m
+25/26,SV Werder Bremen,24.9,€177.80m,€5.74m
+25/26,TSG 1899 Hoffenheim,25.1,€172.55m,€5.23m
+25/26,SC Freiburg,27.3,€162.70m,€6.03m
+25/26,1.FSV Mainz 05,26.3,€157.78m,€5.26m
+25/26,Borussia Mönchengladbach,25.6,€154.18m,€5.14m
+25/26,FC Augsburg,25.5,€151.38m,€5.22m
+25/26,1.FC Union Berlin,26.3,€124.70m,€4.45m
+25/26,Hamburger SV,25.7,€106.45m,€3.55m
+25/26,1.FC Köln,26.0,€106.28m,€3.66m
+25/26,FC St. Pauli,25.7,€64.08m,€2.21m
+25/26,1.FC Heidenheim 1846,26.6,€56.80m,€2.10m
+23/24,Bayern Munich,25.2,€965.15m,€24.75m
+23/24,Bayer 04 Leverkusen,24.9,€658.35m,€20.57m
+23/24,RB Leipzig,25.2,€545.40m,€17.04m
+23/24,Borussia Dortmund,25.6,€494.80m,€13.74m
+23/24,VfB Stuttgart,24.4,€346.63m,€9.12m
+23/24,Eintracht Frankfurt,24.7,€326.65m,€7.10m
+23/24,VfL Wolfsburg,25.0,€206.45m,€6.26m
+23/24,SC Freiburg,26.3,€180.35m,€5.30m
+23/24,TSG 1899 Hoffenheim,26.1,€176.00m,€5.18m
+23/24,Borussia Mönchengladbach,26.0,€165.23m,€5.01m
+23/24,1.FC Union Berlin,27.5,€160.95m,€4.60m
+23/24,1.FSV Mainz 05,26.5,€142.88m,€4.20m
+23/24,FC Augsburg,25.6,€140.80m,€3.71m
+23/24,SV Werder Bremen,26.4,€134.93m,€3.86m
+23/24,1.FC Köln,26.1,€81.45m,€2.47m
+23/24,1.FC Heidenheim 1846,26.8,€66.45m,€2.37m
+23/24,VfL Bochum,28.3,€64.53m,€1.90m
+23/24,SV Darmstadt 98,27.0,€38.70m,€1.14m
+21/22,Bayern Munich,25.2,€790.33m,€20.80m
+21/22,Borussia Dortmund,24.5,€558.98m,€12.70m
+21/22,RB Leipzig,24.3,€498.95m,€14.68m
+21/22,Bayer 04 Leverkusen,25.1,€455.05m,€13.00m
+21/22,VfL Wolfsburg,25.7,€269.30m,€7.28m
+21/22,Borussia Mönchengladbach,25.8,€236.80m,€7.64m
+21/22,Eintracht Frankfurt,25.7,€228.75m,€6.35m
+21/22,TSG 1899 Hoffenheim,25.3,€211.43m,€5.29m
+21/22,SC Freiburg,25.5,€176.35m,€5.51m
+21/22,VfB Stuttgart,24.0,€174.23m,€4.47m
+21/22,Hertha BSC,25.2,€155.78m,€3.46m
+21/22,1.FSV Mainz 05,25.5,€131.03m,€3.85m
+21/22,1.FC Union Berlin,27.1,€115.90m,€2.90m
+21/22,1.FC Köln,25.8,€99.28m,€3.20m
+21/22,FC Augsburg,26.0,€95.30m,€2.98m
+21/22,Arminia Bielefeld,25.1,€65.85m,€1.94m
+21/22,VfL Bochum,27.7,€52.25m,€1.58m
+21/22,SpVgg Greuther Fürth,25.1,€36.95m,€1.09m
+19/20,Bayern Munich,24.2,€777.33m,€20.46m
+19/20,Borussia Dortmund,25.0,€654.05m,€17.68m
+19/20,RB Leipzig,23.4,€570.48m,€15.01m
+19/20,Bayer 04 Leverkusen,25.7,€398.95m,€13.76m
+19/20,Borussia Mönchengladbach,26.3,€254.70m,€7.49m
+19/20,TSG 1899 Hoffenheim,26.8,€226.05m,€6.11m
+19/20,FC Schalke 04,24.6,€221.58m,€6.71m
+19/20,Hertha BSC,24.7,€217.20m,€5.17m
+19/20,Eintracht Frankfurt,27.0,€208.98m,€5.97m
+19/20,VfL Wolfsburg,25.2,€207.60m,€5.46m
+19/20,SV Werder Bremen,26.6,€135.13m,€3.75m
+19/20,SC Freiburg,26.3,€122.65m,€4.09m
+19/20,1.FSV Mainz 05,24.4,€121.58m,€3.47m
+19/20,FC Augsburg,26.0,€112.95m,€3.05m
+19/20,1.FC Köln,25.7,€98.48m,€2.81m
+19/20,Fortuna Düsseldorf,26.7,€71.78m,€1.94m
+19/20,1.FC Union Berlin,26.7,€41.20m,€1.21m
+19/20,SC Paderborn 07,25.9,€28.90m,€903k
+17/18,Bayern Munich,25.2,€811.85m,€21.36m
+17/18,Borussia Dortmund,25.5,€574.20m,€16.41m
+17/18,RB Leipzig,24.5,€373.30m,€13.33m
+17/18,Bayer 04 Leverkusen,25.7,€357.35m,€13.24m
+17/18,FC Schalke 04,26.1,€274.35m,€9.46m
+17/18,TSG 1899 Hoffenheim,24.6,€212.75m,€5.91m
+17/18,Borussia Mönchengladbach,25.1,€193.25m,€5.52m
+17/18,VfL Wolfsburg,24.8,€143.60m,€4.35m
+17/18,VfB Stuttgart,25.2,€134.70m,€3.96m
+17/18,Hertha BSC,25.4,€131.45m,€4.11m
+17/18,Eintracht Frankfurt,25.5,€126.15m,€3.50m
+17/18,SV Werder Bremen,26.0,€107.15m,€3.25m
+17/18,SC Freiburg,26.0,€100.60m,€2.79m
+17/18,FC Augsburg,26.2,€100.45m,€3.04m
+17/18,1.FSV Mainz 05,25.9,€98.35m,€2.98m
+17/18,Hannover 96,26.4,€92.95m,€3.10m
+17/18,1.FC Köln,24.9,€91.73m,€2.41m
+17/18,Hamburger SV,25.0,€62.40m,€1.84m
+22/23,Bayern Munich,25.7,€948.95m,€27.11m
+22/23,Borussia Dortmund,25.1,€567.55m,€15.34m
+22/23,RB Leipzig,26.0,€486.40m,€16.77m
+22/23,Bayer 04 Leverkusen,24.8,€452.50m,€12.93m
+22/23,Eintracht Frankfurt,25.6,€324.55m,€9.02m
+22/23,Borussia Mönchengladbach,25.9,€241.68m,€6.91m
+22/23,VfL Wolfsburg,25.1,€238.30m,€7.22m
+22/23,SC Freiburg,26.5,€200.95m,€6.93m
+22/23,TSG 1899 Hoffenheim,26.2,€178.80m,€4.83m
+22/23,1.FC Union Berlin,27.4,€157.95m,€4.39m
+22/23,VfB Stuttgart,23.7,€151.05m,€3.87m
+22/23,1.FSV Mainz 05,25.2,€135.80m,€3.99m
+22/23,FC Augsburg,25.6,€132.23m,€3.15m
+22/23,1.FC Köln,25.4,€115.65m,€2.97m
+22/23,Hertha BSC,25.8,€94.00m,€2.29m
+22/23,SV Werder Bremen,25.2,€89.50m,€2.71m
+22/23,FC Schalke 04,26.9,€87.78m,€2.04m
+22/23,VfL Bochum,28.3,€53.70m,€1.68m
+16/17,Bayern Munich,26.6,€562.55m,€17.05m
+16/17,Borussia Dortmund,25.6,€390.65m,€12.60m
+16/17,Bayer 04 Leverkusen,24.3,€265.03m,€6.80m
+16/17,FC Schalke 04,25.3,€217.25m,€5.57m
+16/17,VfL Wolfsburg,25.0,€203.08m,€4.72m
+16/17,RB Leipzig,24.0,€176.33m,€5.34m
+16/17,Borussia Mönchengladbach,24.9,€162.18m,€4.91m
+16/17,TSG 1899 Hoffenheim,25.0,€138.63m,€4.20m
+16/17,1.FC Köln,25.8,€116.15m,€3.87m
+16/17,1.FSV Mainz 05,24.8,€96.73m,€2.48m
+16/17,Hertha BSC,25.4,€96.53m,€2.93m
+16/17,SV Werder Bremen,26.0,€89.45m,€2.18m
+16/17,SC Freiburg,25.5,€86.73m,€2.41m
+16/17,Hamburger SV,25.0,€80.48m,€2.12m
+16/17,Eintracht Frankfurt,24.6,€72.30m,€2.07m
+16/17,FC Augsburg,26.8,€65.85m,€1.78m
+16/17,FC Ingolstadt 04,25.3,€38.63m,€1.21m
+16/17,SV Darmstadt 98,27.2,€25.98m,€666k
+14/15,Bayern Munich,26.1,€575.13m,€17.43m
+14/15,Borussia Dortmund,25.2,€319.50m,€8.64m
+14/15,VfL Wolfsburg,26.4,€221.05m,€7.37m
+14/15,FC Schalke 04,24.5,€212.00m,€5.89m
+14/15,Bayer 04 Leverkusen,25.4,€177.10m,€6.81m
+14/15,Borussia Mönchengladbach,26.3,€130.63m,€4.84m
+14/15,TSG 1899 Hoffenheim,24.9,€121.78m,€4.06m
+14/15,1.FSV Mainz 05,25.4,€88.00m,€2.44m
+14/15,Hamburger SV,25.8,€87.15m,€2.29m
+14/15,VfB Stuttgart,25.2,€86.95m,€2.90m
+14/15,Hannover 96,26.1,€76.65m,€2.19m
+14/15,Eintracht Frankfurt,25.6,€74.90m,€2.50m
+14/15,SV Werder Bremen,24.4,€67.53m,€1.88m
+14/15,Hertha BSC,26.7,€66.00m,€2.20m
+14/15,SC Freiburg,25.6,€57.40m,€1.91m
+14/15,1.FC Köln,25.8,€50.75m,€1.88m
+14/15,FC Augsburg,26.1,€50.08m,€1.43m
+14/15,SC Paderborn 07,26.6,€28.50m,€1.02m
+13/14,Bayern Munich,25.2,€556.88m,€16.88m
+13/14,Borussia Dortmund,25.2,€326.05m,€10.52m
+13/14,FC Schalke 04,25.0,€203.25m,€5.35m
+13/14,Bayer 04 Leverkusen,24.8,€175.88m,€5.03m
+13/14,VfL Wolfsburg,25.6,€155.23m,€4.31m
+13/14,Borussia Mönchengladbach,25.4,€111.38m,€3.98m
+13/14,VfB Stuttgart,25.5,€108.30m,€3.09m
+13/14,Hamburger SV,25.4,€102.78m,€3.02m
+13/14,TSG 1899 Hoffenheim,24.2,€97.40m,€2.27m
+13/14,Eintracht Frankfurt,25.3,€86.20m,€2.61m
+13/14,Hannover 96,25.6,€80.23m,€2.23m
+13/14,SC Freiburg,24.2,€71.68m,€2.05m
+13/14,Hertha BSC,26.4,€68.08m,€2.13m
+13/14,SV Werder Bremen,24.2,€66.40m,€1.70m
+13/14,1.FSV Mainz 05,27.1,€59.45m,€1.86m
+13/14,1.FC Nuremberg,24.7,€56.45m,€1.71m
+13/14,FC Augsburg,25.8,€45.95m,€1.31m
+13/14,Eintracht Braunschweig,26.4,€28.58m,€866k
+20/21,Bayern Munich,24.4,€858.23m,€19.07m
+20/21,Borussia Dortmund,25.5,€628.40m,€19.64m
+20/21,RB Leipzig,24.1,€574.95m,€17.97m
+20/21,Bayer 04 Leverkusen,25.6,€373.25m,€11.31m
+20/21,Borussia Mönchengladbach,26.2,€300.75m,€9.11m
+20/21,Eintracht Frankfurt,26.2,€269.15m,€7.48m
+20/21,VfL Wolfsburg,26.4,€256.83m,€8.56m
+20/21,Hertha BSC,24.9,€228.88m,€6.02m
+20/21,TSG 1899 Hoffenheim,25.4,€228.15m,€6.17m
+20/21,VfB Stuttgart,24.4,€189.25m,€5.91m
+20/21,1.FSV Mainz 05,25.4,€163.30m,€4.54m
+20/21,SC Freiburg,25.7,€139.10m,€4.64m
+20/21,FC Schalke 04,25.3,€123.05m,€2.73m
+20/21,1.FC Köln,25.3,€118.20m,€3.28m
+20/21,SV Werder Bremen,25.7,€111.98m,€3.39m
+20/21,FC Augsburg,26.4,€93.05m,€3.00m
+20/21,1.FC Union Berlin,26.4,€82.05m,€2.49m
+20/21,Arminia Bielefeld,25.4,€56.73m,€1.72m
+11/12,Bayern Munich,26.3,€356.00m,€14.24m
+11/12,Borussia Dortmund,25.1,€215.95m,€7.20m
+11/12,FC Schalke 04,25.2,€155.23m,€3.98m
+11/12,Bayer 04 Leverkusen,24.6,€134.85m,€4.50m
+11/12,VfL Wolfsburg,26.4,€125.80m,€2.80m
+11/12,VfB Stuttgart,25.8,€118.00m,€3.69m
+11/12,SV Werder Bremen,24.7,€111.95m,€2.95m
+11/12,TSG 1899 Hoffenheim,24.5,€88.65m,€2.53m
+11/12,Borussia Mönchengladbach,24.7,€88.30m,€3.15m
+11/12,Hamburger SV,24.5,€85.90m,€2.32m
+11/12,Hannover 96,26.2,€76.80m,€2.48m
+11/12,SC Freiburg,25.4,€69.43m,€1.88m
+11/12,1.FC Köln,25.1,€60.18m,€1.77m
+11/12,1.FC Nuremberg,24.7,€52.10m,€1.74m
+11/12,1.FSV Mainz 05,26.2,€52.00m,€1.73m
+11/12,Hertha BSC,25.2,€45.60m,€1.47m
+11/12,1.FC Kaiserslautern,24.8,€42.60m,€1.15m
+11/12,FC Augsburg,26.6,€38.35m,€1.20m
+15/16,Bayern Munich,26.4,€596.05m,€17.53m
+15/16,Borussia Dortmund,25.4,€352.95m,€11.77m
+15/16,VfL Wolfsburg,25.9,€270.43m,€7.73m
+15/16,Bayer 04 Leverkusen,24.7,€241.30m,€7.31m
+15/16,FC Schalke 04,25.4,€225.20m,€7.04m
+15/16,Borussia Mönchengladbach,25.9,€186.15m,€6.42m
+15/16,TSG 1899 Hoffenheim,25.4,€90.20m,€3.01m
+15/16,1.FSV Mainz 05,25.8,€85.15m,€2.18m
+15/16,VfB Stuttgart,25.4,€81.18m,€2.39m
+15/16,Hertha BSC,25.7,€78.93m,€2.32m
+15/16,Eintracht Frankfurt,25.5,€76.60m,€2.19m
+15/16,FC Augsburg,26.4,€75.83m,€1.94m
+15/16,1.FC Köln,25.4,€68.63m,€2.75m
+15/16,SV Werder Bremen,25.1,€64.68m,€1.66m
+15/16,Hamburger SV,26.3,€63.20m,€1.81m
+15/16,Hannover 96,24.9,€60.83m,€1.56m
+15/16,FC Ingolstadt 04,25.7,€35.65m,€1.23m
+15/16,SV Darmstadt 98,27.7,€25.15m,€838k
+12/13,Bayern Munich,25.8,€462.40m,€15.94m
+12/13,Borussia Dortmund,24.7,€302.30m,€9.75m
+12/13,FC Schalke 04,25.3,€183.55m,€5.40m
+12/13,Bayer 04 Leverkusen,24.1,€155.30m,€4.71m
+12/13,VfL Wolfsburg,26.4,€109.00m,€3.03m
+12/13,Hamburger SV,25.6,€104.95m,€3.50m
+12/13,VfB Stuttgart,25.8,€93.13m,€2.74m
+12/13,Borussia Mönchengladbach,24.7,€87.33m,€3.01m
+12/13,Hannover 96,26.0,€83.15m,€2.38m
+12/13,TSG 1899 Hoffenheim,24.1,€78.25m,€1.82m
+12/13,SV Werder Bremen,23.9,€78.00m,€2.44m
+12/13,Eintracht Frankfurt,26.0,€68.40m,€2.21m
+12/13,SC Freiburg,24.5,€65.80m,€2.06m
+12/13,1.FSV Mainz 05,26.9,€52.43m,€1.64m
+12/13,1.FC Nuremberg,24.6,€46.83m,€1.46m
+12/13,FC Augsburg,26.7,€38.45m,€1.17m
+12/13,SpVgg Greuther Fürth,25.3,€33.33m,€901k
+12/13,Fortuna Düsseldorf,26.2,€31.15m,€890k
+08/09,Bayern Munich,26.7,€235.95m,€8.14m
+08/09,Hamburger SV,25.6,€156.88m,€4.13m
+08/09,SV Werder Bremen,24.7,€149.45m,€4.27m
+08/09,VfL Wolfsburg,26.0,€138.33m,€3.95m
+08/09,Bayer 04 Leverkusen,25.6,€120.10m,€3.87m
+08/09,VfB Stuttgart,25.6,€119.05m,€3.50m
+08/09,FC Schalke 04,25.5,€118.05m,€3.47m
+08/09,Borussia Dortmund,25.9,€105.83m,€2.71m
+08/09,Hertha BSC,25.3,€88.10m,€2.84m
+08/09,TSG 1899 Hoffenheim,24.2,€79.65m,€2.34m
+08/09,Hannover 96,26.6,€64.38m,€1.84m
+08/09,Eintracht Frankfurt,25.5,€63.40m,€1.86m
+08/09,1.FC Köln,26.8,€49.30m,€1.54m
+08/09,Borussia Mönchengladbach,26.9,€49.00m,€1.36m
+08/09,VfL Bochum,27.8,€41.45m,€1.22m
+08/09,Karlsruher SC,27.3,€30.90m,€1.14m
+08/09,Arminia Bielefeld,27.0,€29.60m,€987k
+08/09,FC Energie Cottbus,28.0,€29.53m,€844k
+10/11,Bayern Munich,26.2,€308.98m,€9.97m
+10/11,Borussia Dortmund,25.2,€169.95m,€5.48m
+10/11,FC Schalke 04,25.7,€157.18m,€4.37m
+10/11,SV Werder Bremen,25.5,€151.13m,€3.98m
+10/11,Bayer 04 Leverkusen,25.6,€147.68m,€4.92m
+10/11,VfL Wolfsburg,26.2,€145.10m,€4.27m
+10/11,TSG 1899 Hoffenheim,24.3,€126.13m,€3.71m
+10/11,Hamburger SV,26.4,€112.13m,€3.74m
+10/11,VfB Stuttgart,25.8,€105.25m,€3.19m
+10/11,1.FC Köln,25.7,€69.28m,€1.82m
+10/11,Borussia Mönchengladbach,26.3,€66.55m,€1.96m
+10/11,Hannover 96,26.5,€65.35m,€2.33m
+10/11,1.FSV Mainz 05,27.4,€60.60m,€2.16m
+10/11,1.FC Nuremberg,25.0,€60.20m,€1.88m
+10/11,SC Freiburg,25.7,€59.95m,€1.87m
+10/11,1.FC Kaiserslautern,25.4,€50.50m,€1.68m
+10/11,Eintracht Frankfurt,25.7,€47.58m,€1.53m
+10/11,FC St. Pauli,27.3,€30.50m,€1.02m
+09/10,Bayern Munich,26.6,€279.55m,€9.64m
+09/10,VfL Wolfsburg,26.3,€155.43m,€5.01m
+09/10,SV Werder Bremen,24.9,€143.95m,€3.79m
+09/10,Hamburger SV,25.4,€136.28m,€3.89m
+09/10,FC Schalke 04,24.8,€134.55m,€3.36m
+09/10,Bayer 04 Leverkusen,24.9,€132.90m,€4.43m
+09/10,VfB Stuttgart,25.7,€124.65m,€3.67m
+09/10,Borussia Dortmund,24.5,€109.40m,€3.22m
+09/10,TSG 1899 Hoffenheim,23.8,€97.50m,€2.95m
+09/10,Hertha BSC,25.6,€61.98m,€1.88m
+09/10,Eintracht Frankfurt,26.1,€59.20m,€1.64m
+09/10,1.FC Köln,25.3,€59.13m,€1.79m
+09/10,Borussia Mönchengladbach,26.0,€55.00m,€1.83m
+09/10,Hannover 96,26.6,€50.88m,€1.30m
+09/10,1.FSV Mainz 05,26.5,€48.78m,€1.19m
+09/10,1.FC Nuremberg,25.3,€47.50m,€1.44m
+09/10,VfL Bochum,27.1,€39.90m,€1.25m
+09/10,SC Freiburg,25.3,€39.45m,€1.23m
+06/07,Bayern Munich,27.0,€180.73m,€6.02m
+06/07,SV Werder Bremen,25.4,€157.25m,€4.77m
+06/07,FC Schalke 04,25.2,€106.60m,€3.55m
+06/07,Hamburger SV,25.4,€101.83m,€2.83m
+06/07,VfB Stuttgart,25.8,€97.08m,€3.03m
+06/07,Borussia Dortmund,24.5,€79.78m,€2.49m
+06/07,Bayer 04 Leverkusen,25.6,€74.08m,€2.65m
+06/07,Hertha BSC,26.1,€73.40m,€2.29m
+06/07,1.FC Nuremberg,26.0,€65.45m,€2.11m
+06/07,VfL Wolfsburg,27.4,€55.90m,€1.86m
+06/07,Eintracht Frankfurt,26.1,€52.95m,€1.77m
+06/07,Borussia Mönchengladbach,25.1,€45.85m,€1.27m
+06/07,Hannover 96,26.5,€45.85m,€1.43m
+06/07,VfL Bochum,27.7,€41.00m,€1.28m
+06/07,1.FSV Mainz 05,26.1,€36.03m,€1.06m
+06/07,Arminia Bielefeld,27.0,€35.60m,€1.19m
+06/07,Alemannia Aachen,26.2,€26.68m,€860k
+06/07,FC Energie Cottbus,27.0,€26.55m,€885k
+18/19,Bayern Munich,26.2,€784.88m,€24.53m
+18/19,Borussia Dortmund,24.9,€643.25m,€18.92m
+18/19,RB Leipzig,23.0,€479.00m,€14.09m
+18/19,Bayer 04 Leverkusen,25.1,€429.40m,€13.85m
+18/19,TSG 1899 Hoffenheim,24.9,€336.25m,€8.85m
+18/19,Eintracht Frankfurt,25.4,€313.40m,€6.67m
+18/19,Borussia Mönchengladbach,25.7,€264.30m,€8.81m
+18/19,VfL Wolfsburg,25.5,€229.25m,€6.37m
+18/19,FC Schalke 04,25.6,€221.30m,€5.67m
+18/19,Hertha BSC,24.9,€207.63m,€5.77m
+18/19,SV Werder Bremen,26.2,€168.05m,€5.09m
+18/19,1.FSV Mainz 05,25.3,€159.73m,€4.56m
+18/19,VfB Stuttgart,25.4,€143.75m,€4.23m
+18/19,FC Augsburg,25.4,€139.25m,€3.48m
+18/19,SC Freiburg,25.5,€122.10m,€3.59m
+18/19,Fortuna Düsseldorf,26.7,€94.95m,€2.79m
+18/19,Hannover 96,26.2,€91.43m,€2.47m
+18/19,1.FC Nuremberg,25.7,€54.40m,€1.88m
+07/08,Bayern Munich,26.3,€249.20m,€8.04m
+07/08,SV Werder Bremen,24.7,€159.55m,€4.31m
+07/08,FC Schalke 04,26.5,€125.85m,€3.70m
+07/08,Hamburger SV,24.6,€120.75m,€3.35m
+07/08,VfB Stuttgart,25.4,€108.85m,€3.11m
+07/08,Bayer 04 Leverkusen,24.7,€90.05m,€2.90m
+07/08,Hertha BSC,24.9,€81.00m,€2.25m
+07/08,Borussia Dortmund,26.0,€79.80m,€2.35m
+07/08,VfL Wolfsburg,26.1,€79.00m,€2.03m
+07/08,Eintracht Frankfurt,25.6,€67.80m,€1.99m
+07/08,Hannover 96,27.7,€61.55m,€1.76m
+07/08,1.FC Nuremberg,26.3,€57.45m,€1.74m
+07/08,VfL Bochum,26.4,€41.95m,€1.27m
+07/08,Karlsruher SC,26.1,€37.35m,€1.38m
+07/08,Arminia Bielefeld,26.8,€34.85m,€1.03m
+07/08,FC Energie Cottbus,26.6,€30.95m,€794k
+07/08,MSV Duisburg,26.8,€29.20m,€768k
+07/08,FC Hansa Rostock,27.0,€27.55m,€889k
+24/25,Bayern Munich,24.6,€953.55m,€22.18m
+24/25,Bayer 04 Leverkusen,25.1,€623.35m,€18.33m
+24/25,RB Leipzig,23.9,€513.70m,€13.88m
+24/25,Borussia Dortmund,24.1,€508.28m,€11.82m
+24/25,Eintracht Frankfurt,24.6,€431.25m,€13.07m
+24/25,VfB Stuttgart,24.2,€365.23m,€9.36m
+24/25,VfL Wolfsburg,25.5,€296.30m,€7.60m
+24/25,Borussia Mönchengladbach,25.7,€187.50m,€6.05m
+24/25,TSG 1899 Hoffenheim,25.1,€187.10m,€3.90m
+24/25,SC Freiburg,27.2,€186.20m,€6.01m
+24/25,1.FSV Mainz 05,27.2,€175.13m,€5.84m
+24/25,FC Augsburg,26.0,€158.88m,€4.41m
+24/25,1.FC Union Berlin,27.9,€136.05m,€4.39m
+24/25,SV Werder Bremen,25.9,€132.00m,€4.00m
+24/25,1.FC Heidenheim 1846,27.2,€72.53m,€2.34m
+24/25,FC St. Pauli,26.5,€65.78m,€1.73m
+24/25,VfL Bochum,27.0,€57.10m,€1.73m
+24/25,Holstein Kiel,26.6,€47.13m,€1.57m
+05/06,Bayern Munich,28.3,€177.88m,€6.35m
+05/06,SV Werder Bremen,25.7,€111.60m,€3.99m
+05/06,Hamburger SV,25.1,€106.90m,€3.05m
+05/06,FC Schalke 04,25.8,€87.18m,€2.72m
+05/06,Bayer 04 Leverkusen,24.9,€81.23m,€2.46m
+05/06,Borussia Dortmund,24.0,€78.53m,€2.24m
+05/06,Hertha BSC,26.3,€72.70m,€2.35m
+05/06,VfB Stuttgart,26.5,€69.80m,€2.12m
+05/06,VfL Wolfsburg,28.0,€61.38m,€1.92m
+05/06,1.FC Nuremberg,25.7,€52.13m,€1.63m
+05/06,Borussia Mönchengladbach,27.5,€49.90m,€1.47m
+05/06,Hannover 96,26.1,€45.35m,€1.37m
+05/06,1.FC Köln,27.0,€43.63m,€1.18m
+05/06,Eintracht Frankfurt,26.7,€39.95m,€1.25m
+05/06,1.FSV Mainz 05,26.5,€37.75m,€1.22m
+05/06,1.FC Kaiserslautern,27.1,€37.38m,€1.07m
+05/06,Arminia Bielefeld,26.8,€32.85m,€995k
+05/06,MSV Duisburg,28.1,€24.18m,€780k

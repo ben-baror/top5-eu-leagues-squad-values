@@ -1,0 +1,49 @@
+# -------------------------
+# PYTHON
+# -------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore Python egg metadata
+*.egg-info/
+.eggs/
+*.egg
+
+# -------------------------
+# JUPYTER NOTEBOOK CHECKPOINTS
+# -------------------------
+.ipynb_checkpoints/
+
+# Clean notebook metadata (handled via .gitattributes)
+# (we'll add .gitattributes below)
+
+# -------------------------
+# SCRAPY
+# -------------------------
+# Ignore scraped cache or debug output if created
+.scrapy/
+
+# -------------------------
+# OS / EDITOR JUNK
+# -------------------------
+.DS_Store
+Thumbs.db
+
+# -------------------------
+# PYCHARM / IDE
+# -------------------------
+# JetBrains IDE config
+.idea/
+
+# -------------------------
+# LOG FILES
+# -------------------------
+*.log
+
+# -------------------------
+# DO NOT IGNORE:
+# svg/png/csv/scraping code/notebooks
+# (you explicitly want them tracked)
+# -------------------------
