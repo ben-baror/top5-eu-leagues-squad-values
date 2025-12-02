@@ -2,15 +2,20 @@
 
 This is a full end-to-end data project: from raw scraping → cleaned dataset → statistical analysis → visual story → [written article](https://saltyflake92.substack.com/p/mashing-football-and-data-gini-ridge).
 
-![Gini over time](pngs/multilines1.png)
-
 ## 🎯 Project Goals
 - Scrape squad market values for Europe’s top 5 leagues (2004–2026) from Transfermarkt.
 - Process and structure multi-season datasets for analysis.
 - Measure and experiment with the **Gini index** outside economics.
 - Visualize distributions over time using **ridge plots**.
 - Explore trends in competitiveness across leagues and over time.
+  
+![Gini over time](pngs/multilines1.png)
 
+## 📊 Key Findings
+- **La Liga** is consistently the **most unequal** league in squad value distribution.
+- **Premier League** has become **more equal over time**, even with massive financial growth.
+- **Serie A** shows a significant reduction in inequality, moving toward a more balanced distribution.
+  
 ![Ridge plot](pngs/Squads_Ridge.png)
 
 ## 📂 Repository Contents
@@ -24,7 +29,6 @@ This is a full end-to-end data project: from raw scraping → cleaned dataset �
 - [`pngs/`](pngs) — Final figures used in the article.
 
 ![La liga and Premier league ginis](pngs/la_liga_vs_prem_gini.png)
-
 
 ## 🛠 Tools
 - **Python**: pandas, numpy, matplotlib, joypy  
