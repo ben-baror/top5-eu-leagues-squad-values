@@ -1,6 +1,6 @@
 # Squad Value Inequality in Europe’s Top 5 Leagues (2004–2026)
 
-This is a full end-to-end data project: from raw scraping → cleaned dataset → statistical analysis → visual story → written article.
+This is a full end-to-end data project: from raw scraping → cleaned dataset → statistical analysis → visual story → [written article](https://saltyflake92.substack.com/p/mashing-football-and-data-gini-ridge).
 
 ![Gini over time](pngs/multilines1.png)
 
@@ -14,14 +14,14 @@ This is a full end-to-end data project: from raw scraping → cleaned dataset �
 ![Ridge plot](pngs/Squads_Ridge.png)
 
 ## 📂 Repository Contents
-- `scraping_squad_values/` — Scripts for scraping Transfermarkt squad data.
-- `data/` — Cleaned and structured datasets (CSV/Parquet).
-- `notebooks/` — Jupyter notebook for:
+- [`scraping_squad_values/`](scraping_squad_values/) — Scripts for scraping Transfermarkt squad data.
+- [`data/`](data/) — Cleaned and structured datasets (CSV/Parquet).
+- [`notebooks/`](notebooks/) — Jupyter notebook for:
   - Data cleaning and processing
   - Data analysis
   - Gini calculations
   - Time-series, Bar charts, and Ridge plot visualizations
-- `pngs/` — Final figures used in the article.
+- [`pngs/`](pngs) — Final figures used in the article.
 
 ![La liga and Premier league ginis](pngs/la_liga_vs_prem_gini.png)
 
